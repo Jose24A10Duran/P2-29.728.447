@@ -130,7 +130,7 @@ section, .button {
 footer {
     background-color: var(--color1); /* Color oscuro para contraste */
     color: var(--color2); /* Texto en color claro */
-    padding: 50px;
+    padding: 20px;
     text-align: center;
     font-size: 0.9rem;
     font-weight: 500;
